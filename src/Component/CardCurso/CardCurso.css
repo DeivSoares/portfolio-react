@@ -1,0 +1,11 @@
+.cardcurso{
+  color: white;
+}
+
+.cardcurso iframe {
+  max-width: 30rem;
+  max-height: 25rem;
+  border: 1px solid lightslategray;
+  background-color: lightskyblue;
+}
+

@@ -1,0 +1,14 @@
+.cvbuttono a{
+    color: var(--font-color);
+    text-decoration: none;
+}
+
+.cvbutton button{
+    width: 12rem;
+    height: 3rem;
+    margin-top: 1.5rem;
+    border-radius: 8rem;
+    border: 1px solid black;
+    font-weight: bold;
+    cursor: pointer;
+}
