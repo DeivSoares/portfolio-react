@@ -1,0 +1,21 @@
+.cardprojeto {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  width: 25rem;
+  height: 25rem;
+  padding: 2rem;
+  background-color: #464646;
+  border: 1px solid white;
+  border-radius: 4rem;
+  box-shadow: 5px 5px 6px 5px #000000bd;
+}
+
+.cardprojeto img{
+    width: 100%;
+    height: 12.5rem;
+    border: 1px solid rgba(255, 255, 255, 0.308);
+    border-radius: 2rem;
+}

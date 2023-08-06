@@ -1,0 +1,19 @@
+.rodape{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+    padding: 1rem;
+    background-color: lightslategray;
+    border-top: 1px solid white;
+}
+
+.rodape img{
+    width: 10rem;
+}
+
+.rodape a{
+    color: #3343d8;
+    text-decoration: none;
+}

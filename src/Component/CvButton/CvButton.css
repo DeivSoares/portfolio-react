@@ -1,5 +1,4 @@
-.cvbuttono a{
-    color: var(--font-color);
+.cvbutton a{
     text-decoration: none;
 }
 
