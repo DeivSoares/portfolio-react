@@ -1,0 +1,21 @@
+.formaDeContato{
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.formaDeContato div{
+    display: block;
+    width: 100%;
+}
+
+.formaDeContato div a{
+    color: white;
+    text-decoration: none;
+}
+
+.formaDeContato div img{
+    width: 8rem;
+}

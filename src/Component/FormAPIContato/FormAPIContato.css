@@ -1,0 +1,33 @@
+.form form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.form form input {
+  width: 24rem;
+  height: 2.5rem;
+  margin-block: 1rem;
+}
+
+.form form textarea {
+  width: 45rem;
+  border-radius: 2rem;
+  padding: 1rem;
+}
+
+.form form input[type="submit"] {
+  width: 10rem;
+  margin-top: 1.5rem;
+  border-radius: 8rem;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+.form form input[type="submit"]:hover{
+  background-color: black;
+  color: white;
+  transition: .7s;
+  border-color: white;
+}
