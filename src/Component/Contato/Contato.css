@@ -12,3 +12,10 @@
   border: 1px solid white;
   box-shadow: 5px 5px 6px 5px #000000bd;
 }
+
+
+@media (max-width: 720px){
+  .contato{
+    flex-direction: column-reverse;
+  }
+}

@@ -6,3 +6,10 @@
     gap: 2rem;
     margin-bottom: 2.5rem;
 }
+
+@media (max-width: 720px){
+    .cursos{
+        margin: auto;
+        width: 90%;
+    }
+}

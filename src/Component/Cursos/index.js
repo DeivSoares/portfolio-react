@@ -2,14 +2,6 @@ import CardCurso from '../CardCurso'
 import './Cursos.css'
 
 const Cursos = () => {
-    // const cursos = [
-    //     {
-    //         nome: 'Front End T5',
-    //         instituicao: 'Oracle Next Education - ONE',
-    //         formacao: '',
-    //         link: 'https://drive.google.com/drive/folders/1gqBPdczDFJkWXML3DwTHtZAfEHtCgmgZ?usp=sharing'
-    //     },
-    // ]
 
     return (
         <>

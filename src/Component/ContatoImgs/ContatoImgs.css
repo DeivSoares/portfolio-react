@@ -19,3 +19,17 @@
 .formaDeContato div img{
     width: 8rem;
 }
+
+@media (max-width: 720px){
+    .formaDeContato{
+        flex-direction: row;
+    }
+
+    .formaDeContato div img{
+        width: 4rem;
+    }
+
+    .formaDeContato h3{
+        display: none;
+    }
+  }

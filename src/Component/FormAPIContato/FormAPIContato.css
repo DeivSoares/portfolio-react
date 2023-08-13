@@ -31,3 +31,11 @@
   transition: .7s;
   border-color: white;
 }
+
+@media (max-width: 720px){
+  .form form textarea {
+    width: 90%;
+    border-radius: 2rem;
+    padding: 1rem;
+  }
+}
